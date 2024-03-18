@@ -21,16 +21,9 @@ This repo holds codes of the paper: Multi-scale temporal network for continuous 
 
 ---
 ### Inference
-
-We provide the pretrained models (Down-sampling factor 1) for inference,
-But the result that the models (downsampling factor 4) needs to be retrained:
-
-|  Backbone  |  Down-sampling factor 1  |  Down-sampling factor 4  |
-|            | WER on Dev | WER on Test | WER on Dev | WER on Test |
-|  --------  | ---------- | ----------- | ---------- | ----------- |
-| CNN+BiLstm | 26.1%      | 26.7%       | 29.8%      | 30.4%       |
-|     VAC    | 21.8%      | 22.8%       | 25.1%      | 26.2%       |
-|   MSTNet   | 20.3%      | 21.4%       | 23.4%      | 24.7%       |
+|            | WER on Dev | WER on Test |
+|  --------  | ---------- | ----------- |
+|   MSTNet   | 20.3%      | 21.4%       |
 
 ---
 ### Citation
@@ -57,6 +50,36 @@ Continuous Sign Language Recognition via Temporal Super-Resolution Network. [[pa
   author={Zhu, Qidan and Li, Jing and Yuan, Fei and Gan, Quan},
   journal={arXiv preprint arXiv:2207.00928},
   year={2022}
+}
+```
+
+Temporal superimposed crossover module for effective continuous sign language. [[paper]](https://arxiv.org/pdf/2211.03387.pdf)
+```latex
+@article{zhu2022temporal,
+  title={Temporal superimposed crossover module for effective continuous sign language},
+  author={Zhu, Qidan and Li, Jing and Yuan, Fei and Gan, Quan},
+  journal={arXiv preprint arXiv:2211.03387},
+  year={2022}
+}
+```
+
+Continuous sign language recognition based on cross-resolution knowledge distillation. [[paper]](https://arxiv.org/pdf/2303.06820.pdf)
+```latex
+@article{zhu2023continuous,
+  title={Continuous sign language recognition based on cross-resolution knowledge distillation},
+  author={Zhu, Qidan and Li, Jing and Yuan, Fei and Gan, Quan},
+  journal={arXiv preprint arXiv:2303.06820},
+  year={2023}
+}
+```
+
+Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation. [[paper]](https://arxiv.org/pdf/2402.19118.pdf)
+```latex
+@article{zhu2024continuous,
+  title={Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation},
+  author={Zhu, Qidan and Li, Jing and Yuan, Fei and Gan, Quan},
+  journal={arXiv preprint arXiv:2402.19118},
+  year={2024}
 }
 ```
 
