@@ -1,0 +1,19 @@
+0 output-hypothesis-dev0001.ctm 89.10
+1 output-hypothesis-dev0002.ctm 82.20
+2 output-hypothesis-dev0003.ctm 72.08
+3 output-hypothesis-dev0004.ctm 64.69
+4 output-hypothesis-dev0005.ctm 56.91
+5 output-hypothesis-dev0006.ctm 53.65
+6 output-hypothesis-dev0007.ctm 45.96
+7 output-hypothesis-dev0008.ctm 42.89
+8 output-hypothesis-dev0009.ctm 39.80
+9 output-hypothesis-dev0010.ctm 38.59
+10 output-hypothesis-dev0011.ctm 37.26
+11 output-hypothesis-dev0012.ctm 34.04
+12 output-hypothesis-dev0013.ctm 32.89
+13 output-hypothesis-dev0014.ctm 31.61
+14 output-hypothesis-dev0015.ctm 29.03
+15 output-hypothesis-dev0016.ctm 31.44
+16 output-hypothesis-dev0017.ctm 30.72
+17 output-hypothesis-dev0018.ctm 29.80
+Min WER:index:14, fileName:output-hypothesis-dev0015.ctm, WER:29.03
